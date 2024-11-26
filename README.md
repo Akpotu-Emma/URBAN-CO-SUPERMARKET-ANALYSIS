@@ -3,9 +3,13 @@
 This dataset offers an in-depth collection of transaction records from the URBAN CO supermarket chain, encompassing three major cities in Nigeria: Lagos, Port-Harcourt, and Benin. Covering the period from January to April 2024, it presents a comprehensive analysis of sales activities. It highlights customer demographics and the utilization of six different payment methods. This information is valuable for understanding consumer behavior and market trends within these urban areas.
 ### KEY PURPOSE
 •	Analyzed revenue generation across different cities to identify the top-performing urban supermarket location.
+
 •	Investigated customer payment preferences to find the most commonly used payment methods for transactions.
+
 •	Assessed purchasing behavior by examining customer demographics, particularly focusing on gender.
+
 •	Reviewed sales figures to evaluate revenue contributions from various product lines and identified top-selling categories based on quantity sold.
+
 •	Evaluated customer feedback and ratings to determine the product line with the highest average customer satisfaction.
 ### DATA PROCESSING
  REQUIREMENT GATHERING:  The data set provided was a Supermarket sales dataset, which contains 999 rows and 14 columns, to evaluate sales performance across different cities and individual store metrics. Identifying trends and insights related to revenue generation and store effectiveness.  Analyze 
